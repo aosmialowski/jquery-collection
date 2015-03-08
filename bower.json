@@ -1,0 +1,26 @@
+{
+  "name": "jquery.collection",
+  "version": "1.0.0",
+  "authors": [
+    "Andrzej Ośmiałowski <me@osmialowski.co.uk>"
+  ],
+  "description": "Simple jQuery plugin to work with Symfony2 form collections",
+  "main": "jquery.collection.min.js",
+  "keywords": [
+    "collection",
+    "symfony2",
+    "symfony",
+    "jquery",
+    "plugin",
+    "form"
+  ],
+  "license": "MIT",
+  "homepage": "http://osmialowski.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
